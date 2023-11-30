@@ -1,0 +1,17 @@
+{
+    "name": "himanshu/contact",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Himanshu\\Contact\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "himanshu"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
